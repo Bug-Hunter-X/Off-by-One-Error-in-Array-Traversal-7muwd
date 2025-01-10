@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an off-by-one error in array traversal. The program attempts to access an element at index 5 of an array with length 5, resulting in an ArrayIndexOutOfBoundsException. The solution shows how to fix this error by using the correct loop condition i < arr.length instead of i <= arr.length.
